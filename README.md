@@ -1,4 +1,4 @@
-## Ismael Foudjo — Machine Learning Engineer
+## Ismael Foudjo - Data Scientist & Machine Learning Engineer
 
 Je conçois des chaînes de bout en bout : de la donnée brute au modèle servi,
 puis du modèle à la décision que quelqu'un prend réellement.
